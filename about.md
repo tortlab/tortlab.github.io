@@ -1,10 +1,10 @@
 ---
 layout: page
-title: about
+title: Lab overview
 subtitle: Basic informations about the lab
 ---
 
-Tort Lab is an brazilian based neuroscience research lab primarily focused on:
+Tort Lab is a brazilian based neuroscience research lab primarily focused on:
 
 - Brain oscillations
 - Systems neuroscience
