@@ -12,7 +12,7 @@ author: Adriano Tort
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "About"
+  About: "about"
   Publications: "publications from the Tort Lab"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
