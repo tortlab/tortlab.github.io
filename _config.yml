@@ -7,16 +7,17 @@ title: Tort Lab
 description: Computational Neurophysyology Lab (Tort Lab) at the Brain Institute, Federal University of Rio Grande do Norte. Natal, Brazil.
 
 # Your name to show in the footer
-author: Some Person
+author: Adriano Tort
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+  About: "About"
   Publications: "publications from the Tort Lab"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  People: "Tort Lab members"
 
 
 # --- Logo --- #
