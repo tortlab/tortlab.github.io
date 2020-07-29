@@ -13,11 +13,11 @@ author: Adriano Tort
 
 navbar-links:
   About: "about"
-  Publications: "publications from the Tort Lab"
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  People: "Tort Lab members"
+  People: "people"
 
 
 # --- Logo --- #
