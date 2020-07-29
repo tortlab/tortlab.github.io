@@ -6,10 +6,10 @@ subtitle: Research papers from the Tort Lab
 
 ## **Preprints**
 
-[_**Gamma band alterations and REM-like traits underpin the acute effect of the atypical psychedelic ibogaine**_](https://www.biorxiv.org/content/10.1101/2020.06.25.172304v1.abstract) J Gonzalez, M Cavelli,..., ABL Tort, N Rubido, P Torterolo
+[_**Gamma band alterations and REM-like traits underpin the acute effect of the atypical psychedelic ibogaine**_](https://www.biorxiv.org/content/10.1101/2020.06.25.172304v1.abstract) J Gonzalez, M Cavelli,..., ABL Tort, N Rubido, P Torterolo  
 _bioRxiv_
 
-[_**Hippocampal-Prefrontal Interactions during Spatial Decision-Making**_](https://www.biorxiv.org/content/10.1101/2020.06.24.168732v1.abstract) LCS Tavares, ABL Tort
+[_**Hippocampal-Prefrontal Interactions during Spatial Decision-Making**_](https://www.biorxiv.org/content/10.1101/2020.06.24.168732v1.abstract) LCS Tavares, ABL Tort  
 _bioRxiv_
 
 [_**Communication through coherence by means of cross-frequency coupling**_](https://www.biorxiv.org/content/10.1101/2020.03.09.984203v1.abstract) J Gonzalez, A Mondino, M Cavelli, N Rubido, ABL Tort, P Torterolo
