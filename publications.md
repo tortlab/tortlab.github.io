@@ -303,7 +303,7 @@ ABL Tort, HG Rotstein, T Dugladze, T Gloveli, NJ Kopell
 _Proceedings of the National Academy of Sciences_
 
 [_**Brain injury markers (S100B and NSE) in chronic cocaine dependents**_](https://www.scielo.br/scielo.php?pid=S1516-44462006005000029&script=sci_arttext)  
-FHP Kessler, G Woody, LVC Portela, ABL Tort, R De Boni, ACWB Peuker, V Genro, L von Diemen, DO Souza, F Pechansky 
+FHP Kessler, G Woody, LVC Portela, ABL Tort, R De Boni, ACWB Peuker, V Genro, L von Diemen, DO Souza, F Pechansky  
 _Brazilian Journal of Psychiatry_
 
 ## **2006**
@@ -339,7 +339,6 @@ _Journal of Psychopharmacology_
 [_**On the simulation of the time-course of dopamine D2 receptor occupancy from the pharmacokinetics of antipsychotics**_](https://academic.oup.com/ijnp/article-abstract/8/1/137/698679)  
 ABL Tort, DO Souza, DR Lara  
 _International Journal of Neuropsychopharmacology_
-
 
 [_**Effect of subchronic caffeine treatment on MK-801-induced changes in locomotion, cognition and ataxia in mice**_](https://journals.lww.com/behaviouralpharm/Fulltext/2005/03000/Effect_of_subchronic_caffeine_treatment_on.2.aspx)  
 RV De Oliveira, OP Dall'Igna, ABL Tort, JF Schuh, PF Neto, MWS Gomes, DO Souza, DR Lara  
