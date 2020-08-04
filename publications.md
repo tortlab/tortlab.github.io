@@ -73,7 +73,7 @@ ABL Tort, J Brankačk, A Draguhn
 _Trends in Neurosciences_
 
 [_**On information metrics for spatial coding**_](https://www.sciencedirect.com/science/article/pii/S0306452218301088)  
-B Souza, R Pavao, H Belchior, A Tort  
+B Souza, R Pavao, H Belchior, ABL Tort  
 _Neuroscience_
 
 [_**Nasal respiration entrains delta-frequency oscillations in the prefrontal cortex and hippocampus of rodents**_](https://link.springer.com/article/10.1007/s00429-017-1573-1)  
@@ -314,7 +314,7 @@ ABL Tort, WP Neto, OB Amaral, V Kazlauckas, DO Souza, DR Lara
 _Journal of Neuroscience Methods_
 
 [_**Theoretical insights into the mechanism of action of atypical antipsychotics**_](https://www.sciencedirect.com/science/article/pii/S0278584605003908)  
-ABL Tort, Diogo O Souza, Diogo R Lara  
+ABL Tort, DO Souza, DR Lara  
 _Progress in Neuro-Psychopharmacology and Biological Psychiatry_
 
 [_**Raised serum S100B protein levels in neuropsychiatric lupus**_](https://ard.bmj.com/content/65/6/829.short)  
@@ -322,7 +322,7 @@ CB Schenatto, RM Xavier, M Bredemeier, LVC Portela, ABL Tort, TLD Silva, DO Souz
 _Annals of the Rheumatic Diseases_
 
 [_**Serum and cerebrospinal fluid S100B concentrations in patients with neurocysticercosis**_](https://www.scielo.br/scielo.php?pid=S0100-879X2006000100015&script=sci_arttext)  
-E Lima, Roger Walz, ABL Tort, DO Souza, L Portela, MM Bianchin, OM Takayanagui  
+E Lima, R Walz, ABL Tort, DO Souza, L Portela, MM Bianchin, OM Takayanagui  
 _Brazilian Journal of Medical and Biological Research_
 
 ## **2005**

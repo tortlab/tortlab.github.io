@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab overview
-subtitle: Basic informations about the lab
+# subtitle: Basic informations about the lab
 ---
 
 Tort Lab is a brazilian based neuroscience research lab primarily focused on:
@@ -13,4 +13,4 @@ Tort Lab is a brazilian based neuroscience research lab primarily focused on:
 - Cross-frequency coupling
 - Neuronal coding
 
-You can find all of our research papers under the [publications](lucaase.github.io/publications) tab. Please feel free to contact us using the links below.
+You can find all of our research papers under the [publications](https://lucaase.github.io/publications) tab. Please feel free to contact us using the links below.
