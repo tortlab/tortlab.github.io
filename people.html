@@ -4,11 +4,13 @@ title: Lab members
 # subtitle: Basic informations about the lab
 ---
 
-{% for image in site.static_files %}
-    {% if image.path contains 'img/members' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" align="left" width="100" height="100" />
-        <br>
-        <strong> Name </strong>
-        <br>
-    {% endif %}
-{% endfor %}
+<div style="text-align:center">
+    {% for image in site.static_files %}
+        {% if image.path contains 'img/members' %}
+        <div style='sidplay:inline-block'>
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:200px; height:200px" />
+            <strong> Name </strong>
+       </div>
+        {% endif %}
+    {% endfor %}
+    </div>
