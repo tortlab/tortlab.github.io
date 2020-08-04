@@ -1,19 +1,16 @@
 ---
 layout: page
-title: Tort Lab members
+title: Lab members
 # subtitle: Basic informations about the lab
 ---
 
-## Current members
----
+{% for image in site.static_files %}
+    {% if image.path contains 'img/members' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
 
-![Adriano Tort](/assets/img/members/adrianotort.png)  
-**Adriano Tort**  
-Principal Investigator
 
-![Lucas Tavares](/assets/img/members/lucastavares.png)  
-**Lucas Tavares**  
-PhD Student
 
 ## Collaborators
 ---
