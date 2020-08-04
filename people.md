@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Lab overview
-subtitle: Basic informations about the lab
+title: Tort Lab members
+# subtitle: Basic informations about the lab
 ---
 
-Current members:
+## Current members
 
-- Brain oscillations
-- Systems neuroscience
-- Respiration-entrained oscillations
-- Theoretical neuroscience
-- Cross-frequency coupling
-- Neuronal coding
+**Adriano Tort**
+Principal Investigator
 
-Alumni:
+**Lucas Tavares**
+PhD Student
+
+## Collaborators
+
+## Alumni
 
 
