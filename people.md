@@ -4,9 +4,9 @@ title: Lab members
 # subtitle: Basic informations about the lab
 ---
 
-![Adriano Tort](/assets/img/members/adrianotort.png)  
+<img style="float: left;" src="/assets/img/members/adrianotort.png">  
 **Adriano Tort**  
-#Principal Investigator
+Principal Investigator
 
 ![Lucas Tavares](/assets/img/members/lucastavares.png)  
 **Lucas Tavares**  
