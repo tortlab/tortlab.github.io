@@ -13,11 +13,11 @@ author: Adriano Tort
 
 navbar-links:
   About: "about"
+  People: "people"
   Publications: "publications"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  People: "people"
+    - Lab Github: "https://github.com/tortlab"
+    - Brain Institute website: "https://neuro.ufrn.br"
 
 
 # --- Logo --- #
@@ -44,7 +44,7 @@ social-network-links:
 #  facebook: deanattali
   github: tortlab
 #  twitter: daattali
-  rss: true
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -74,7 +74,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "tortlab.github.io"
+
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
