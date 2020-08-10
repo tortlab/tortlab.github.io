@@ -13,6 +13,4 @@ Tort Lab is a brazilian-based neuroscience research lab. Despite enormous advanc
 - Cross-frequency coupling
 - Neuronal coding
 
-In short, we search for meaning inside the electrical signals of the brain.  
-
 You can find all of our research papers under the [publications](https://lucaase.github.io/publications) tab. If you want to contact us regarding our work, please take a look at the links below.
