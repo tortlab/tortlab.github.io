@@ -597,7 +597,7 @@ footer .footer-custom-content {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
-  color: #FFF;
+  color: black;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
@@ -615,6 +615,7 @@ footer .footer-custom-content {
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
+  color: black;
   margin: 0.625rem 0 0;
 }
 .intro-header .post-heading .post-subheading {
