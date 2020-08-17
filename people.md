@@ -12,7 +12,9 @@ title: Lab members
 
 <div class="row" align="center">
         <div class="col-md-4" style="margin-bottom:.25rem">
+            <a href="https://linktr.ee/lucaase" target="_blank">
             <img src="/assets/img/members/lucastavares.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            </a>
             <div>
             <strong> Lucas Tavares </strong><br/>
             PhD Student
@@ -60,9 +62,19 @@ title: Lab members
             <strong> Alan Fortunato </strong><br/>
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/bryansouza.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Bryan Souza </strong><br/>
+        </div></div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
             <img src="/assets/img/members/davidrieskens.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Davi Drieskens </strong><br/>
+        </div> </div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/hindiaelbelchior.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Hindiael Belchior </strong><br/>
         </div> </div>
         <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/josephalves.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
@@ -73,6 +85,11 @@ title: Lab members
         <img src="/assets/img/members/livianeves.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Lívia Neves </strong><br/>
+        </div></div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/defaultmember.png" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Robson Scheffer-Teixeira </strong><br/>
         </div></div> 
 </div>
 <br/>
@@ -88,16 +105,18 @@ title: Lab members
             PhD Student
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
+            <a href="https://www.ru.nl/english/people/cavalcanti-de-franca-a/" target="_blank">
             <img src="/assets/img/members/arthurfranca.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            </a>
             <div>
             <strong> Arthur França </strong><br/>
-            MSc Student
+            PhD Student
         </div></div> 
         <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/bryansouza.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Bryan Souza </strong><br/>
-            Postdoc
+            PhD & Postdoc
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/cesarrennocosta.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
@@ -106,11 +125,23 @@ title: Lab members
             Postdoc
         </div> </div>
         <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/fabiocaixeta.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Fábio Caixeta </strong><br/>
+            PhD Student
+        </div></div> 
+        <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/hindiaelbelchior.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Hindiael Belchior </strong><br/>
             Postdoc
-        </div> </div> 
+        </div> </div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/julianaassis.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Juliana Assis </strong><br/>
+            MSc Student
+        </div></div> 
         <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/rafaelpedrosa.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
@@ -118,21 +149,15 @@ title: Lab members
             MSc Student
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
-        <img src="/assets/img/members/robsonschefferteixeira.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+        <img src="/assets/img/members/defaultmember.png" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Robson Scheffer-Teixeira </strong><br/>
-            Postdoc
+            PhD & Postdoc
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/rodrigopavao.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Rodrigo Pavão </strong><br/>
-            Postdoc
-        </div></div>
-        <div class="col-md-4" style="margin-bottom:.25rem">
-        <img src="/assets/img/members/sergiocondeocazionez.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
-            <div>
-            <strong> Sergio Conde-Ocazionez </strong><br/>
             Postdoc
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
