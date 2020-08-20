@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tort Lab
-subtitle: Computational Neurophysyology Laboratory. Brain Institute at UFRN. Natal, Brazil.
+subtitle: Computational Neurophysyology Laboratory. <br/> Brain Institute at UFRN. Natal, Brazil.
 cover-img: /assets/img/MI_logo4.png
 thumbnail-img: /assets/img/tortlab_logo2.png
 share-img: /assets/img/logoico.png
