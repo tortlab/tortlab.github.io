@@ -600,10 +600,14 @@ footer .footer-custom-content {
 .intro-header .page-heading {
   text-align: center;
 }
-.intro-header.big-img .page-heading,
+.intro-header.big-img .page-heading {
+  padding: 6.25rem 0;
+  color:black;
+  text-shadow: 1px 1px 3px #000;
+}
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
-  color: black;
+  color:whitesmoke;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
@@ -614,14 +618,22 @@ footer .footer-custom-content {
   margin-top: 0;
   font-size: 2.1875rem;
 }
-.intro-header .page-heading .page-subheading,
-.intro-header .post-heading .post-subheading {
+.intro-header .page-heading .page-subheading {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   color: black;
+  margin: 0.625rem 0 0;
+}
+.intro-header .post-heading .post-subheading {
+  font-size: 1.6875rem;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  color:whitesmoke;
   margin: 0.625rem 0 0;
 }
 .intro-header .post-heading .post-subheading {
