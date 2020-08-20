@@ -603,6 +603,7 @@ footer .footer-custom-content {
 .intro-header.big-img .page-heading {
   padding: 6.25rem 0;
   color:black;
+  font-weight: bold;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header.big-img .post-heading {
