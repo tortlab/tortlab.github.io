@@ -359,7 +359,7 @@ img.members:hover {
 
 @media (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 6.25rem;
+    width: 8.5rem;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
@@ -634,7 +634,7 @@ footer .footer-custom-content {
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
-  color:whitesmoke;
+  color:black;
   margin: 0.625rem 0 0;
 }
 .intro-header .post-heading .post-subheading {
