@@ -2,7 +2,6 @@
 layout: post
 title: On the boundary conditions of avoidance memory reconsolidation - an attractor network perspective
 subtitle: New paper
-cover-img: /assets/img/reexposure2.png
 thumbnail-img: /assets/img/consolidation_memory.gif
 share-img: /assets/img/torlab_logo.jpg
 gh-repo: tortlab/attractor-network
