@@ -359,7 +359,7 @@ img.members:hover {
 
 @media (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 7.5rem;
+    width: 8rem;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
