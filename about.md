@@ -15,10 +15,11 @@ Tort Lab is a Brazilian-based neuroscience research lab. Despite enormous advanc
 - Neuronal coding
 - Respiration-entrained oscillations
   
+<br/>
 
 ## Where
 
-We are located at the sunny city of Natal, within the Rio Grande do Norte State, at the northeast region of Brazil. Natal, which translates to "christmas" (due to its foundation on a december 25th) is famous for its awesome looking beaches and other astonishing natural landscapes. Since 2011, it has also become home to the [Brain Institute](https://neuro.ufrn.br){:target="_blank"}, a multi-field neuroscience research center within the Federal University of Rio Grande do Norte, which includes our lab among many others.  
+We are located in the sunny city of [Natal](https://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte){:target="_blank"}, the capital of the Rio Grande do Norte State, in the northeast region of Brazil. Natal, which translates to "Christmas" due to its foundation on a December 25, is famous for its awesome looking beaches and other astonishing natural landscapes. Since 2011, it has also become home to the [Brain Institute](https://neuro.ufrn.br){:target="_blank"}, a multi-field neuroscience research center at the Federal University of Rio Grande do Norte, which includes our lab among many others.  
 
 <p align="center">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1668.8272251102849!2d-35.2060256626651!3d-5.832714034778539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2ff853abce599%3A0xf2f01153f0de3ce1!2sInstituto%20do%20C%C3%A9rebro%20(ICe)%20-%20UFRN!5e0!3m2!1spt-BR!2sbr!4v1598400860748!5m2!1spt-BR!2sbr" width="730" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="center"></iframe>
@@ -33,5 +34,5 @@ We are located at the sunny city of Natal, within the Rio Grande do Norte State,
 <br/>  
 -->
 
-You can find our research papers under the [publications](https://lucaase.github.io/publications) tab. If you want to contact us regarding our work, please take a look at the links below.
+You can find our research papers under the [Publications](https://lucaase.github.io/publications) tab. If you want to contact us regarding our work, please take a look at the links below.
 
