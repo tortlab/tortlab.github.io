@@ -751,6 +751,9 @@ footer .footer-custom-content {
   margin: 0 0.625rem;
 }
 
+#maps-about {width: 730px; height: 10000;}
+
+
 /* --- Pagination --- */
 
 .pagination {

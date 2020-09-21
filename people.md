@@ -44,6 +44,12 @@ title: Lab members
             MSc Student
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">  
+        <img src="/assets/img/members/elisduarte.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Elis Duarte </strong><br/>
+            Undergraduate Student
+        </div> </div>
+        <div class="col-md-4" style="margin-bottom:.25rem">  
         <img src="/assets/img/members/victormartins.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Victor Martins </strong><br/>

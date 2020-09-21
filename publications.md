@@ -16,9 +16,6 @@ _bioRxiv_
 LCS Tavares, ABL Tort  
 _bioRxiv_
 
-[_**Communication through coherence by means of cross-frequency coupling**_](https://www.biorxiv.org/content/10.1101/2020.03.09.984203v1.abstract){:target="_blank"}  
-J Gonzalez, A Mondino, M Cavelli, N Rubido, ABL Tort, P Torterolo  
-_bioRxiv_
 
 [_**Respiration competes with theta for modulating parietal cortex neurons**_](https://www.biorxiv.org/content/10.1101/707331v1.abstract){:target="_blank"}  
 F Jung, Y Yanovsky, J Brankačk, ABL Tort, A Draguhn  
@@ -26,6 +23,10 @@ _bioRxiv_
 
 ## **2020**
 ***
+
+[_**Communication through coherence by means of cross-frequency coupling**_](https://www.sciencedirect.com/science/article/abs/pii/S0306452220305935){:target="_blank"}  
+J Gonzalez, A Mondino, M Cavelli, N Rubido, ABL Tort, P Torterolo  
+_Neuroscience_
 
 [_**Specific increase of hippocampal delta oscillations across consecutive treadmill runs**_](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.00101/full?report=reader){:target="_blank"}  
 A Furtunato, B Lobao-Soares, ABL Tort, H Belchior  
