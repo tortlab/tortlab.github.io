@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: people
 title: Lab members
-# subtitle: Basic informations about the lab
 ---
 <p align="center">
     <img src="/assets/img/members/adrianotort.jpg" alt="image" class="members" style="width:300px; height:300px; border-radius: 0.75em;" />  <br/>
@@ -179,4 +178,3 @@ title: Lab members
             PhD Student
         </div></div>
 </div>
-

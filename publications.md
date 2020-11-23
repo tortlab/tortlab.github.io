@@ -7,6 +7,11 @@ subtitle: Research papers from the Tort Lab
 ## **Preprints**
 ***
 
+[_**Theta-gamma coupling depends on breathing rate**_](https://www.biorxiv.org/content/10.1101/2020.10.22.349936v1){:target="_blank"}  
+M Hammer, C Schwale, J Brankačk, A Draguhn, ABL Tort  
+_bioRxiv_
+
+
 [_**Gamma band alterations and REM-like traits underpin the acute effect of the atypical psychedelic ibogaine**_](https://www.biorxiv.org/content/10.1101/2020.06.25.172304v1.abstract){:target="_blank"}  
 J Gonzalez, M Cavelli, S Castro-Zaballa, A Mondino, ABL Tort, N Rubido, P Torterolo  
 _bioRxiv_
@@ -23,6 +28,10 @@ _bioRxiv_
 
 ## **2020**
 ***
+
+[_**Pranayamas and their neurophysiological effects**_](https://www.ijoy.org.in/article.asp?issn=0973-6131;year=2020;volume=13;issue=3;spage=183;epage=192;aulast=Campanelli){:target="_blank"}  
+S Campanelli, ABL Tort, B Lobão-Soares  
+_International Journal of Yoga_
 
 [_**Communication through coherence by means of cross-frequency coupling**_](https://www.sciencedirect.com/science/article/abs/pii/S0306452220305935){:target="_blank"}  
 J Gonzalez, A Mondino, M Cavelli, N Rubido, ABL Tort, P Torterolo  
