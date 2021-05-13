@@ -12,11 +12,6 @@ M Hammer, C Schwale, J Brankačk, A Draguhn, ABL Tort
 _bioRxiv_
 
 
-[_**Gamma band alterations and REM-like traits underpin the acute effect of the atypical psychedelic ibogaine**_](https://www.biorxiv.org/content/10.1101/2020.06.25.172304v1.abstract){:target="_blank"}  
-J Gonzalez, M Cavelli, S Castro-Zaballa, A Mondino, ABL Tort, N Rubido, P Torterolo  
-_bioRxiv_
-
-
 [_**Hippocampal-prefrontal interactions during spatial decision-making**_](https://www.biorxiv.org/content/10.1101/2020.06.24.168732v1.abstract){:target="_blank"}  
 LCS Tavares, ABL Tort  
 _bioRxiv_
@@ -25,6 +20,21 @@ _bioRxiv_
 [_**Respiration competes with theta for modulating parietal cortex neurons**_](https://www.biorxiv.org/content/10.1101/707331v1.abstract){:target="_blank"}  
 F Jung, Y Yanovsky, J Brankačk, ABL Tort, A Draguhn  
 _bioRxiv_
+
+## **2021**
+***
+
+[_**Temporal relations between cortical network oscillations and breathing frequency during REM sleep**_](https://www.jneurosci.org/content/early/2021/05/07/JNEUROSCI.3067-20.2021.abstract){:target="_blank"}  
+ABL Tort, M Hammer, J Zhang, J Brankačk, A Draguhn  
+_Journal of Neuroscience_
+
+[_**Diazepam causes sedative rather than anxiolytic effects in C57BL/6J mice**_](https://www.nature.com/articles/s41598-021-88599-5){:target="_blank"}  
+M Pádua-Reis, DA Nôga, ABL Tort, M Blunder  
+_Scientific Reports_
+
+[_**Gamma band alterations and REM-like traits underpin the acute effect of the atypical psychedelic ibogaine**_](https://pubs.acs.org/doi/10.1021/acsptsci.0c00164){:target="_blank"}  
+J Gonzalez, M Cavelli, S Castro-Zaballa, A Mondino, ABL Tort, N Rubido, P Torterolo  
+_ACS Pharmacology & Translational Science_
 
 ## **2020**
 ***
