@@ -1,6 +1,7 @@
 ---
 layout: people
 title: Lab members
+show-avatar: false
 ---
 <p align="center">
     <img src="/assets/img/members/adrianotort.jpg" alt="image" class="members" style="width:300px; height:300px; border-radius: 0.75em;" />  <br/>
@@ -11,6 +12,18 @@ title: Lab members
 
 <div class="row" align="center">
         <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/anadias.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Ana Dias </strong><br/>
+            PhD Student
+        </div></div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/joaquingonzalez.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Joaquín González </strong><br/>
+            PhD Student
+        </div></div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
             <a href="https://linktr.ee/lucaase" target="_blank">
             <img src="/assets/img/members/lucastavares.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             </a>
@@ -19,39 +32,21 @@ title: Lab members
             PhD Student
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/paulohenrique.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Paulo Henrique  </strong><br/>
+            PhD Student
+        </div></div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
             <img src="/assets/img/members/rodrigosantiago.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Rodrigo Santiago </strong><br/>
             PhD Student
         </div></div>
-        <div class="col-md-4" style="margin-bottom:.25rem">
-        <img src="/assets/img/members/anadias.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
-            <div>
-            <strong> Ana Dias </strong><br/>
-            MSc Student
-        </div></div>
-        <div class="col-md-4" style="margin-bottom:.25rem">
-        <img src="/assets/img/members/brunosantos.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
-            <div>
-            <strong> Bruno Santos </strong><br/>
-            MSc Student
-        </div> </div>
-        <div class="col-md-4" style="margin-bottom:.25rem">
-        <img src="/assets/img/members/izabelapaiva.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
-            <div>
-            <strong> Izabela Paiva </strong><br/>
-            MSc Student
-        </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">  
         <img src="/assets/img/members/elisduarte.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Elis Duarte </strong><br/>
-            Undergraduate Student
-        </div> </div>
-        <div class="col-md-4" style="margin-bottom:.25rem">  
-        <img src="/assets/img/members/victormartins.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
-            <div>
-            <strong> Victor Martins </strong><br/>
             Undergraduate Student
         </div> </div>
 </div>  
@@ -142,6 +137,12 @@ title: Lab members
             Postdoc
         </div> </div>
         <div class="col-md-4" style="margin-bottom:.25rem">
+        <img src="/assets/img/members/izabelapaiva.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Izabela Paiva </strong><br/>
+            MSc Student
+        </div></div>
+        <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/julianaassis.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Juliana Assis </strong><br/>
@@ -165,6 +166,12 @@ title: Lab members
             <strong> Rodrigo Pavão </strong><br/>
             Postdoc
         </div></div>
+        <div class="col-md-4" style="margin-bottom:.25rem">  
+        <img src="/assets/img/members/victormartins.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <div>
+            <strong> Victor Martins </strong><br/>
+            Undergraduate Student
+        </div> </div>
         <div class="col-md-4" style="margin-bottom:.25rem">
         <img src="/assets/img/members/vitorlopesdossantos.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
