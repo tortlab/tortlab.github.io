@@ -94,6 +94,22 @@ var BeautifulJekyllJS = {
   }
 };
 
+$(document).ready(function() {
+  // Check if user has scrolled down on page load
+  if ($(window).scrollTop() > 0) {
+    $('.navbar-custom').addClass('scrolled');
+  }
+  
+  // Add or remove "scrolled" class based on user scrolling behavior
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 0) {
+      $('.navbar-custom').addClass('scrolled');
+    } else {
+      $('.navbar-custom').removeClass('scrolled');
+    }
+  });
+});
+
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);

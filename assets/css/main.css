@@ -151,6 +151,16 @@ img.members:hover {
   padding-bottom: 0;
 }
 
+.navbar-custom {
+  background-color: transparent;
+  // ...
+}
+
+.navbar-custom.scrolled {
+  background-color: {{ site.navbar-col | default: "#F5F5F5" }};
+  border-bottom: 1px solid {{ site.navbar-border-col | default: "#EAEAEA" }};
+}
+
 .navbar-custom .navbar-brand {
   line-height: 1.5;
   padding-top: 0.625rem;
