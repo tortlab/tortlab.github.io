@@ -7,22 +7,58 @@ subtitle: Research papers from the Tort Lab
 ## **Preprints**
 ***
 
-[_**Theta-gamma coupling depends on breathing rate**_](https://www.biorxiv.org/content/10.1101/2020.10.22.349936v1){:target="_blank"}  
-M Hammer, C Schwale, J Brankačk, A Draguhn, ABL Tort  
+[_**Hippocampal delta oscillations entrain neuronal activity, modulate gamma amplitude and convey information about running speed on a treadmill**_](https://www.biorxiv.org/content/10.1101/2022.01.24.477542.abstract){:target="_blank"}  
+AMB Furtunato, R Pedrosa, B Lobão-Soares, ABL Tort, H Belchior  
 _bioRxiv_
-
-
-[_**Hippocampal-prefrontal interactions during spatial decision-making**_](https://www.biorxiv.org/content/10.1101/2020.06.24.168732v1.abstract){:target="_blank"}  
-LCS Tavares, ABL Tort  
-_bioRxiv_
-
 
 [_**Respiration competes with theta for modulating parietal cortex neurons**_](https://www.biorxiv.org/content/10.1101/707331v1.abstract){:target="_blank"}  
 F Jung, Y Yanovsky, J Brankačk, ABL Tort, A Draguhn  
 _bioRxiv_
 
+## **2023**
+***
+
+[_**Mechanisms and functions of respiration-driven gamma oscillations in the primary olfactory cortex**_](https://elifesciences.org/articles/83044){:target="_blank"}  
+J González, P Torterolo, ABL Tort  
+_Elife_
+
+[_**Respiratory entrainment of units in the mouse parietal cortex depends on vigilance state**_](https://link.springer.com/article/10.1007/s00424-022-02727-2){:target="_blank"}  
+F Jung, Y Yanovsky, J Brankačk, ABL Tort, A Draguhn  
+_Pflügers Archiv-European Journal of Physiology_
+
+## **2022**
+***
+
+[_**Theta and gamma oscillations in the rat hippocampus support the discrimination of object displacement in a recognition memory task**_](https://www.frontiersin.org/articles/10.3389/fnbeh.2022.970083){:target="_blank"}  
+L Neves, B Lobão-Soares, APC Araujo, AMB Furtunato, I Paiva, N Souza, AK Morais, G Nascimento, E Gavioli, ABL Tort, FF Barbosa, H Belchior  
+_Frontiers in Behavioral Neuroscience_
+
+[_**Respiration and rapid eye movement (REM) sleep substructure: short versus long episodes**_](https://onlinelibrary.wiley.com/doi/abs/10.1111/jsr.13777){:target="_blank"}  
+M Hammer, F Jung, J Brankačk, Y Yanovsky, ABL Tort, A Draguhn  
+_Journal of Sleep Research_
+
+[_**Breathing modulates gamma synchronization across species**_](https://link.springer.com/article/10.1007/s00424-022-02753-0){:target="_blank"}  
+J González, M Cavelli, A Mondino, S Castro-Zaballa, J Brankačk, A Draguhn, P Torterolo, ABL Tort   
+_Pflügers Archiv-European Journal of Physiology_
+
+[_**Hippocampal Cb2 receptors: an untold story**_](https://www.degruyter.com/document/doi/10.1515/revneuro-2021-0109/html){:target="_blank"}  
+R Visvanathar, M Papanikolaou, DA Nôga, M Pádua-Reis, ABL Tort, M Blunder    
+_Reviews in the Neurosciences_
+
+[_**Differential modulation of parietal cortex activity by respiration and θ oscillations**_](https://journals.physiology.org/doi/abs/10.1152/jn.00376.2021){:target="_blank"}  
+F Jung, V Witte, Y Yanovsky, M Klumpp, J Brankačk, ABL Tort, A Draghun  
+_Journal of Neurophysiology_
+
+[_**Hippocampal-prefrontal interactions during spatial decision-making**_](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.23394){:target="_blank"}  
+LCS Tavares, ABL Tort  
+_Hippocampus_
+
 ## **2021**
 ***
+
+[_**Theta-gamma coupling during REM sleep depends on breathing rate**_](https://academic.oup.com/sleep/article-abstract/44/12/zsab189/6326772){:target="_blank"}  
+M Hammer, C Schwale, J Brankačk, A Draguhn, ABL Tort  
+_Sleep_
 
 [_**Temporal relations between cortical network oscillations and breathing frequency during REM sleep**_](https://www.jneurosci.org/content/early/2021/05/07/JNEUROSCI.3067-20.2021.abstract){:target="_blank"}  
 ABL Tort, M Hammer, J Zhang, J Brankačk, A Draguhn  
