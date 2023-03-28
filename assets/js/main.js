@@ -131,13 +131,12 @@ $(document).ready(function() {
       }
     });
   
-
-    
     // hide the navbar when the page loads
     navbar.classList.add('hide');
-
   }
+  
 });
+
 
 
 // 2fc73a3a967e97599c9763d05e564189
