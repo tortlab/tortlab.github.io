@@ -292,6 +292,11 @@ img.members:hover {
   font-weight: normal;
 }
 
+.hide {
+  display: none;
+}
+
+
 @media (min-width: 768px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
     text-align: center;
