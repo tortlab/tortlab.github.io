@@ -38,7 +38,7 @@ show-avatar: false
             PhD Student
         </div></div>
         <div class="col-md-4" style="margin-bottom:.25rem">
-            <img src="/assets/img/members/rodrigosantiago.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
+            <img src="/assets/img/members/rodrigosantiago2.jpg" alt="image" class="members" style="width:200px; height:200px;margin-bottom:0.5em; margin-top: 1.25em; border-radius: 0.75em;" />
             <div>
             <strong> Rodrigo Santiago </strong><br/>
             PhD Student
