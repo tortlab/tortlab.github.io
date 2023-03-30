@@ -94,23 +94,10 @@ var BeautifulJekyllJS = {
   }
 };
 
+
 $(document).ready(function() {
   // Find the offset of the carousel
   var carouselOffset = $('.carousel').offset().top;
-
-  // Check if user has scrolled down past the carousel on page load
-  if ($(window).scrollTop() > carouselOffset) {
-    $('.navbar-custom').addClass('scrolled');
-  }
-  
-  // Add or remove "scrolled" class based on user scrolling behavior
-  $(window).scroll(function() {
-    if ($(this).scrollTop() > carouselOffset) {
-      $('.navbar-custom').addClass('scrolled');
-    } else {
-      $('.navbar-custom').removeClass('scrolled');
-    }
-  });
 
   if (window.location.href.includes('people')) {
     // get the navbar element
@@ -118,25 +105,23 @@ $(document).ready(function() {
   
     // get the carousel element
     var carousel = document.querySelector('.carousel');
-  
     // add an event listener to the window object to detect scrolling
     window.addEventListener('scroll', function() {
       // check if the user has scrolled past the carousel
       if (window.scrollY >= carousel.offsetHeight) {
         // if the user has scrolled past the carousel, show the navbar
-        navbar.classList.remove('hide');
+        navbar.classList.remove('hideme');
       } else {
         // if the user has not scrolled past the carousel, hide the navbar
-        navbar.classList.add('hide');
+        navbar.classList.add('hideme');
       }
     });
-  
-    // hide the navbar when the page loads
-    navbar.classList.add('hide');
-  }
-  
-});
 
+    // hide the navbar when the page loads
+    navbar.classList.add('hideme');
+
+  }
+});
 
 
 // 2fc73a3a967e97599c9763d05e564189
