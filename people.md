@@ -3,6 +3,9 @@ layout: people
 title: Lab members
 show-avatar: false
 ---
+
+<body id="people-page">
+
 <p align="center">
     <img src="/assets/img/members/adrianotort.jpg" alt="image" class="members" style="width:300px; height:300px; border-radius: 0.75em;" />  <br/>
         <strong> Adriano Tort </strong> <br/>
