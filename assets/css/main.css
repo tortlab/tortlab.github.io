@@ -386,11 +386,11 @@ img.members:hover {
   .navbar-custom .avatar-container .avatar-img {
     width: 100%;
   }
-  
+
   .navbar-custom:hover {
     opacity: 1;
     background-color:{site.navbar-col | default: "#F5F5F5" };
-  }
+  } 
 }
 
 /* --- Footer --- */

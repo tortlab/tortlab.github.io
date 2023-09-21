@@ -15,7 +15,7 @@ navbar-links:
   About: "about"
   People: "people"
   Publications: "publications"
-  Resources:
+  Links:
     - Lab Github: "https://github.com/tortlab"
     - Brain Institute website: "https://neuro.ufrn.br"
     - UFRN website: "https://www.ufrn.br/en"

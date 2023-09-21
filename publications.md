@@ -8,6 +8,14 @@ subtitle: Research papers from the Tort Lab
 ## **Preprints**
 ***
 
+[_**5-MeO-DMT induces sleep-like LFP spectral signatures in the hippocampus and prefrontal cortex of awake rats**_](https://www.biorxiv.org/content/10.1101/2023.06.01.543303v1){:target="_blank"}  
+AC Souza, BC Souza, AS Franca, M Moradi, NC Souza, KE Leao, ABL Tort, R Leao, V Lopes-dos-Santos, S Ribeiro  
+_biorXiv_
+
+[_**Cortical high-frequency oscillations (≈ 110 Hz) in cats are state-dependent and enhanced by a subanesthetic dose of ketamine**_](https://www.biorxiv.org/content/10.1101/2023.05.31.543142v1){:target="_blank"}  
+S Castro, J González, ML Cavelli, DM Mateos, C Pascovich, ABL Tort, MJ Hunt, P Torterolo  
+_bioRxiv_
+
 [_**Hippocampal delta oscillations entrain neuronal activity, modulate gamma amplitude and convey information about running speed on a treadmill**_](https://www.biorxiv.org/content/10.1101/2022.01.24.477542.abstract){:target="_blank"}  
 AMB Furtunato, R Pedrosa, B Lobão-Soares, ABL Tort, H Belchior  
 _bioRxiv_
@@ -19,12 +27,24 @@ _bioRxiv_
 ## **2023**
 ***
 
+[_**Sleep disrupts complex spiking dynamics in the neocortex and hippocampus**_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290146){:target="_blank"}  
+J González, M Cavelli, ABL Tort, P Torterolo, N Rubido  
+_PLoS One_
+
+[_**Respiration and rapid eye movement (REM) sleep substructure: short versus long episodes**_](https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.13777){:target="_blank"}  
+M Hammer, F Jung, J Brankačk, Y Yanovsky, ABL Tort, A Draguhn  
+_Journal of Sleep Research_
+
 [_**Mechanisms and functions of respiration-driven gamma oscillations in the primary olfactory cortex**_](https://elifesciences.org/articles/83044){:target="_blank"}  
 J González, P Torterolo, ABL Tort  
 _Elife_
 
 [_**Respiratory entrainment of units in the mouse parietal cortex depends on vigilance state**_](https://link.springer.com/article/10.1007/s00424-022-02727-2){:target="_blank"}  
 F Jung, Y Yanovsky, J Brankačk, ABL Tort, A Draguhn  
+_Pflügers Archiv-European Journal of Physiology_
+
+[_**Breathing modulates gamma synchronization across species**_](https://link.springer.com/article/10.1007/s00424-022-02753-0){:target="_blank"}  
+J González, M Cavelli, A Mondino, S Castro-Zaballa, J Brankačk, A Draguhn, P Torterolo, ABL Tort   
 _Pflügers Archiv-European Journal of Physiology_
 
 ## **2022**
@@ -38,9 +58,6 @@ _Frontiers in Behavioral Neuroscience_
 M Hammer, F Jung, J Brankačk, Y Yanovsky, ABL Tort, A Draguhn  
 _Journal of Sleep Research_
 
-[_**Breathing modulates gamma synchronization across species**_](https://link.springer.com/article/10.1007/s00424-022-02753-0){:target="_blank"}  
-J González, M Cavelli, A Mondino, S Castro-Zaballa, J Brankačk, A Draguhn, P Torterolo, ABL Tort   
-_Pflügers Archiv-European Journal of Physiology_
 
 [_**Hippocampal Cb2 receptors: an untold story**_](https://www.degruyter.com/document/doi/10.1515/revneuro-2021-0109/html){:target="_blank"}  
 R Visvanathar, M Papanikolaou, DA Nôga, M Pádua-Reis, ABL Tort, M Blunder    
